@@ -1,0 +1,42 @@
+h1{
+color:blue;
+
+}
+.moto{
+
+    color: red;
+    text-decoration: underline;
+}
+
+.imageback {
+    height:100vh;
+    background: url(/images/r1.jpg);
+    background-size:cover;
+    position:relative;
+}
+.card1 {
+    height:100vh;
+    
+}
+
+.smallimage {
+    width: 100%;
+}
+
+.card-name {
+    text-align: center;
+}
+.card-text {
+    text-align: center;
+}
+
+.biu{
+    
+        text-decoration: underline;
+        font-style: italic;
+        font-weight: bold;    
+      
+}
+.bl{
+    font-weight: bold;
+}
