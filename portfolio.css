@@ -10,7 +10,7 @@ color:blue;
 
 .imageback {
     height:100vh;
-    background: url(/images/r1.jpg);
+    background: url(./images/r1.jpg);
     background-size:cover;
     position:relative;
 }
